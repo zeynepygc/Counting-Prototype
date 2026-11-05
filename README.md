@@ -1,8 +1,8 @@
 # Counting Prototype
 
 A small 3D catch-and-dodge game built in Unity, made as the Mission 6 counting prototype exercise from Unity's **Junior Programmer** learning pathway.
-<img width="500" height="286" alt="Ekran görüntüsü 2026-11-05 135114" src="https://github.com/user-attachments/assets/ebff667d-a00e-4726-a51d-e1236e36912c" />
-<img width="500" height="286" alt="Ekran görüntüsü 2026-11-05 135100" src="https://github.com/user-attachments/assets/2ee58025-5c4b-440c-96e5-6ddd6d2f22f5" />
+<img width="300" height="172" alt="Ekran görüntüsü 2026-11-05 135114" src="https://github.com/user-attachments/assets/ebff667d-a00e-4726-a51d-e1236e36912c" />
+<img width="300" height="172" alt="Ekran görüntüsü 2026-11-05 135100" src="https://github.com/user-attachments/assets/2ee58025-5c4b-440c-96e5-6ddd6d2f22f5" />
 
 
 ## Overview
