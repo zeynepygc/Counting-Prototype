@@ -1,4 +1,3 @@
-<img width="3771" height="2160" alt="Ekran görüntüsü 2026-11-05 135114" src="https://github.com/user-attachments/assets/89fc504e-f695-4247-a908-394d6116bf2f" />
 # Counting Prototype
 
 A small 3D catch-and-dodge game built in Unity, made as the Mission 6 counting prototype exercise from Unity's **Junior Programmer** learning pathway.
